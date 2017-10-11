@@ -30,6 +30,13 @@ public class MainActivity extends AppCompatActivity {
 
         map.put(6, li6);
 
+        List<String> li12 = new ArrayList<>();
+        li12.add("12:50");
+        li12.add("12:80");
+        li12.add("12:90");
+
+        map.put(12, li12);
+
 
         List<String> li18 = new ArrayList<>();
 
